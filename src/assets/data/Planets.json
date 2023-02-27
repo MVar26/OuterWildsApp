@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Sun",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/7/78/Sun_1.png",
+    "data": {
+      "Type": "Star",
+      "Gravity": "Unknown",
+      "Inhabitants": "None",
+      "Location": "Center of the Solar System"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Hourglass Twins",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/6/68/Hourglass_twins.png",
+    "data": {
+      "Type": "Binary planets",
+      "Gravity": "0.6g - 1.6g",
+      "Inhabitants": "Chert",
+      "Location": "1st planets from Sun"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Timber Hearth",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/e/ec/Timberhearth_1.png",
+    "data": {
+      "Type": "Terrestrial Planet",
+      "Gravity": "1.0g",
+      "Inhabitants": "16 Hearthians",
+      "Location": "2nd planet from Sun"
+    }
+  },
+  {
+    "id":4,
+    "name": "Attlerock",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/4/44/The_Attlerock.png",
+    "data":{
+      "Type": "Moon",
+      "Gravity": "0.3g - 0.4g",
+      "Inhabitants": "Esker",
+      "Location": "Orbiting Timber Heart"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Brittle Hollow",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/3/3f/Brittle_Hollow_BH.png",
+    "data": {
+      "Type": "Planet",
+      "Gravity": "0.8g - 1.1g",
+      "Inhabitants": "Riebeck",
+      "Location": "3rd planet from Sun"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hollow's Lantern",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/8/8f/Hollow%27s_lantern.png",
+    "data": {
+      "Type": "Moon",
+      "Gravity": "0.5g",
+      "Inhabitants": "None",
+      "Location": "Orbiting Brittle Hollow"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Giant's Deep",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/7/77/Giant%27s_Deep.png",
+    "data": {
+      "Type": "Ocean Planet",
+      "Gravity": "2g - 3g",
+      "Inhabitants": "Gabbro, Jellyfish",
+      "Location": "4th planet from Sun"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Dark Bramble",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/8/83/Dark_Bramble.png",
+    "data": {
+      "Type": "Planetary Remnant",
+      "Gravity": "0g - 0.4g",
+      "Inhabitants": "Feldspar, Jellyfish, Anglerfish",
+      "Location": "5th planet from Sun"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Interloper",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/7/7c/The_Interloper.png",
+    "data": {
+      "Type": "Comet",
+      "Gravity": "0g - 0.4g",
+      "Inhabitants": "None",
+      "Location": "Elliptical orbit around Sun"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Quantum Moon",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/5/5d/Quantum_moon.png",
+    "data": {
+      "Type": "Moon",
+      "Gravity": "Unknown",
+      "Inhabitants": "Unknown",
+      "Location": "Variable"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Stranger",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/6/6d/The_Stranger_front.png",
+    "data": {
+      "Type": "Spacecraft",
+      "Gravity": "1.3g",
+      "Inhabitants": "Unknown",
+      "Location": "Unknown"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Eye of the Universe",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/e/ef/Eye_Symbol.png",
+    "data": {
+      "Type": "Unknown",
+      "Gravity": "Unknown",
+      "Inhabitants": "Unknown",
+      "Location": "Unknown"
+    }
+  }
+]

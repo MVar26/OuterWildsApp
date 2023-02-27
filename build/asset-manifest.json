@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5075cdd7.css",
+    "main.js": "/static/js/main.30937cdb.js",
+    "static/js/787.14087820.chunk.js": "/static/js/787.14087820.chunk.js",
+    "static/media/HomeBG1.jpg": "/static/media/HomeBG1.079239a27027ce0221ea.jpg",
+    "static/media/Logo.png": "/static/media/Logo.eaf3cfeb15ecc18dadd2.png",
+    "static/media/SpaceMono-Regular.ttf": "/static/media/SpaceMono-Regular.8a2aa304d0bd5e41d186.ttf",
+    "static/media/SpaceMono-Bold.ttf": "/static/media/SpaceMono-Bold.056ac3ebe5f65cb5c4ac.ttf",
+    "static/media/Brandon_reg.otf": "/static/media/Brandon_reg.cac94907833ae55f0a4c.otf",
+    "static/media/Bicocca.png": "/static/media/Bicocca.4d5ae12b6ed2276f372d.png",
+    "static/media/HomeBG2.jpg": "/static/media/HomeBG2.3e5f1e00af6e28ba36cf.jpg",
+    "static/media/TravellersHome.png": "/static/media/TravellersHome.27f1b530aa90f2c0e8a0.png",
+    "static/media/Loader.png": "/static/media/Loader.7fdc2e3e07a6d918b080.png",
+    "static/media/SystemHome.png": "/static/media/SystemHome.3bbdc9743531ebe6c741.png",
+    "static/media/Disco.jpg": "/static/media/Disco.8236dfc847a05b3a0afe.jpg",
+    "index.html": "/index.html",
+    "main.5075cdd7.css.map": "/static/css/main.5075cdd7.css.map",
+    "main.30937cdb.js.map": "/static/js/main.30937cdb.js.map",
+    "787.14087820.chunk.js.map": "/static/js/787.14087820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5075cdd7.css",
+    "static/js/main.30937cdb.js"
+  ]
+}

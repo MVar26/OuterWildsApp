@@ -1,0 +1,27 @@
+@font-face {
+    font-family: BrandonG;
+    src: url("../../assets/font/Brandon_Grotesque/Brandon_reg.otf");
+}
+@font-face {
+    font-family: SpaceMono;
+    src: url("../../assets/font/Space_Mono/SpaceMono-Regular.ttf");
+}
+@font-face {
+    font-family: SpaceMonoBold;
+    src: url("../../assets/font/Space_Mono/SpaceMono-Bold.ttf");
+    font-weight: bold;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.bodyBg{
+    background-image: url("../../assets/img/HomeBG2.jpg");
+}
+.errorBg{
+    background-image: url("../../assets/img/HomeBG1.jpg");
+}
+.active{
+    color: #FF7D25!important;
+}

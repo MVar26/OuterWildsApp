@@ -1,0 +1,112 @@
+.cardStyleBig{
+    border-radius: 30px!important;
+    height: 439px!important;
+    background-color: #FF7D25!important;
+    padding: 4px!important;
+    transition-duration: 0.5s!important;
+}
+.cardStyleBig:hover{
+    box-shadow: 0 0 0 3px white;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.cardStyleGrid{
+    border-radius: 30px!important;
+    max-width: 100%;
+    margin: 20px;
+    background-color: #FF7D25!important;
+    padding: 4px!important;
+    transition-duration: 0.5s!important;
+}
+.cardStyleGrid:hover{
+    box-shadow: 0 0 0 3px white;
+    color: white;
+    transition-duration: 0.5s;
+}
+.cardStyleDetails{
+    display: flex;
+    flex-direction: row!important;
+    justify-content: start;
+    border-radius: 30px!important;
+    background-color: #FF7D25!important;
+    padding: 4px!important;
+    transition-duration: 0.5s!important;
+}
+.cardStyleTable{
+    font-family: SpaceMono, serif;
+    font-style: normal;
+    font-size: 25px!important;
+    text-decoration: none;
+    text-align: center;
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px!important;
+    background-color: #FF7D25!important;
+    transition-duration: 0.5s!important;
+}
+.cardStyleTable:hover{
+    box-shadow: 0 0 0 3px white;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.cardImgBig{
+    border-radius: 30px!important;
+    width: 100%;
+    height: 372px;
+    object-fit: cover;
+    background-color: transparent;
+}
+.cardImgGrid{
+    border-radius: 30px!important;
+    width: 100%;
+    height: 297px;
+    object-fit: cover;
+    background-color: black;
+}
+.cardImgDetails{
+    border-radius: 30px!important;
+    width: 50%;
+    object-fit: cover;
+    background-color: black;
+}
+.tableStyleDetails{
+    border-color: black!important;
+    font-family: SpaceMono, serif;
+    font-size: 20px;
+    color: black;
+
+}
+.cardImgTable{
+    border: 6px solid #FF7D25;
+    border-radius: 30px!important;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-color: black;
+    transition-duration: 0.5s;
+}
+.cardImgTable:hover{
+    border-color: white;
+    transition-duration: 0.5s;
+}
+.cardTitle{
+    font-family: SpaceMono, serif;
+    font-style: normal;
+    font-size: 25px!important;
+    text-decoration: none;
+    text-align: center;
+}
+.cardLink{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.cardLink:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.5s;
+}

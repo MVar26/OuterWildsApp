@@ -1,0 +1,26 @@
+.systemText{
+    font-family: BrandonG, sans-serif;
+    color: white;
+    font-size: 25px!important;
+    text-align: center;
+}
+.systemBtn{
+    width: 100%;
+    border-radius: 30px!important;
+    border: none!important;
+    color: black!important;
+    background-color: white!important;
+    font-family: SpaceMono, serif !important;
+    font-size: 25px!important;
+    text-align: center;
+    transition-duration: 0.7s!important;
+}
+.systemBtn:hover{
+    background-color: #FF7D25!important;
+    color: white!important;
+    box-shadow: 0 0 0 3px white;
+    transition-duration: 0.5s!important;
+}
+.active{
+    background-color: #FF7D25!important;
+}

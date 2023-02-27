@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chert",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/c/c2/Chert.png",
+    "data": {
+      "species": "Hearthian",
+      "planet": "Ember Twins",
+      "location": "Chert's Camp"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Esker",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/ba/Esker.png",
+    "data": {
+      "species": "Hearthian",
+      "planet": "The Attlerock",
+      "location": "Lunar Outpost"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Riebeck",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/f/fe/Riebeck.jpg",
+    "data": {
+      "species": "Hearthian",
+      "planet": "Brittle Hollow",
+      "location": "Crossroads"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Gabbro",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/c/cc/Gabbro.jpg",
+    "data": {
+      "species": "Hearthian",
+      "planet": "Gigant's Deep",
+      "location": "Gabbro's Island"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Feldspar",
+    "imgurl": "https://static.wikia.nocookie.net/outerwilds_gamepedia/images/e/ed/Feldspar.jpg",
+    "data": {
+      "species": "Hearthian",
+      "planet": "Dark Bramble",
+      "location": "Anglerfish Skeleton"
+    }
+  }
+]

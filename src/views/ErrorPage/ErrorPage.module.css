@@ -1,0 +1,15 @@
+.errorTitle{
+    font-family: SpaceMonoBold, serif;
+    font-size: 200px;
+    color: #FF7D25;
+}
+.errorText{
+    font-family: BrandonG, sans-serif;
+    font-size: 30px;
+    color: white;
+    padding-left: 40px;
+}
+.pCustom{
+    padding-top: 164px;
+    padding-bottom: 190px;
+}

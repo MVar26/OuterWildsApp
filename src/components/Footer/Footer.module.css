@@ -1,0 +1,29 @@
+footer{
+    color: black;
+    padding: 20px 0;
+}
+.footerText {
+    font-family: SpaceMono, sans-serif;
+    font-style: normal;
+    font-size: 15px!important;
+    text-align: center;
+    color: white!important;
+    margin: 0;
+}
+
+.footerLink{
+    text-decoration: none;
+    color: white!important;
+    transition-duration: 0.8s;
+}
+a:hover {
+    text-decoration: none;
+    color: #FF7D25!important;
+    transition-duration: 0.5s;
+}
+.footerImg{
+    width: 90px;
+}
+.footerBg{
+    background-color: transparent;
+}

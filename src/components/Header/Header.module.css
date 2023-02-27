@@ -1,0 +1,19 @@
+.navBox{
+    width: 100%;
+}
+.navText{
+    font-family: SpaceMonoBold, serif;
+    font-style: normal;
+    font-size: 30px!important;
+    color: white!important;
+    transition-duration: 0.5s;
+    text-decoration: none!important;
+}
+.navText:hover{
+    color: #FF7D25!important;
+    transition-duration: 0.5s;
+}
+.navImg{
+    width: 247px;
+    height: 119px;
+}
