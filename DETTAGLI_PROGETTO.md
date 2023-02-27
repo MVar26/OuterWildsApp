@@ -11,8 +11,8 @@ Per utilizzare l'applicazione ci sono due metodi:
 
 Questo metodo utilizza la linea di comando `npm start` per attivare l'applicazione in modalità sviluppo.
 Al fine di utilizzare questo comando è però necessario installare tutte le dependencies di node che non sono state inserite 
-nella repository di github per questioni di spazio.
-Editor come Webstorm permettono di installare automaticamente le dependencies se si tenta di avviare l'applicazione al loro interno con questo comando.
+nella repository di github per questioni di spazio. Per farlo è possibile usare il comando `npm install` nella directory dell'applicazione.
+Editor come Webstorm permettono di installare automaticamente le dependencies se si tenta di avviare l'applicazione al loro interno con il comando `npm start`.
 
 ###`serve`
 
