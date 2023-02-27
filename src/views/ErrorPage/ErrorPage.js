@@ -11,7 +11,6 @@ function ErrorPage() {
                     This is not the place you were meant to reach. Keep looking for the stars!</p>
             </div>
         </div>
-
     )
 }
 

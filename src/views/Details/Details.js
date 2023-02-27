@@ -10,7 +10,7 @@ import {isDetailsLinkRight} from "../../utility/utility";
 
 function Details () {
 
-    let [text, setText] = useState("");
+    const [text, setText] = useState("");
     const [loading, setLoading] = useState(false);
 
     let {number} = useParams();
